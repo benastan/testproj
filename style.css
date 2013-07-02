@@ -1,1 +1,12 @@
-h1 { text-align: center; font-size: 10em; font-family: 'Helvetica Neue', helvetica, sans-serif; margin: 1em; }
+h1 { font-size: 10em; margin: 1em 0px 0px; }
+body { font-family: 'Helvetica Neue', helvetica, sans-serif; }
+h3 { font-size: 2.6em; font-weight: 100; }
+hgroup { text-align: center; }
+#how_it_works { width: 500px; margin: 0px auto; }
+ul { margin: 0px; list-style: none; }
+p { font-weight: 100; }
+#how_it_works ul > li > h4 { font-weight: 300; }
+#how_it_works h2 { margin: 0.25em 0px; }
+h4 { margin: 0.25em 0px; }
+#how_it_works p { line-height: 1.6em; }
+#how_it_works li { margin: 2.5em 0px; }
